@@ -11,20 +11,20 @@
 <table width=100%>
 <td>
 <dl>
-<dt><b> Research Work expereince</b>
- <dd> <a href="http://i4d.mit.edu/audio-tactile-speech-aids-for-the-deaf-hearing-impaired/">Centre for Innovation and Development, VIT university</a>,
-  <a href="http://canwheel.org/aboutus/people/trainees/past">CanWheel Project</a>,
-  <a href="https://www.cs.ubc.ca/cs-research/lci">CARIS Lab~ Meche@UBC</a>
-  <a href="https://www.cs.ubc.ca/cs-research/lci">Laboratory of Computational Intelligence~ CS@UBC</a>.
-<dt><b> Contacts: </b>
+<dt><b>Research Work @</b>
+ <dd> <p><a href="http://i4d.mit.edu/audio-tactile-speech-aids-for-the-deaf-hearing-impaired/">Centre for Innovation and Development, VIT university</a>  Creation Labs (project mangement @ http://www.openprojects.in/)</p>
+ <dd> <a href="http://odin2.mech.ubc.ca/wiki/index.php/PR2_Wiki#Approved_Users">CARIS Lab~ Meche@UBC,</a> <a href="http://canwheel.org/aboutus/people/trainees/past">CanWheel Project,</a> <a href="https://www.cs.ubc.ca/cs-research/lci">Laboratory of Computational Intelligence~ CS@UBC</a> 
+<dt><b> Contact: </b>
    <dd> email: paga (at) cs (dot) ubc (dot) ca,</a> 
    <dd> email: venkata (dot) makarthikpaga2011 (at) vit (dot) ac (dot) in</a>
    <dd> tel: (+91) 7598855445
    <dd> mail: H-356, John F Kennedy Block, VIT University, Vellore, TN-632014
-<!--
-<dt><b> Other Contacts: </b>
-   <dd> <a href="http://cherokee.stanford.edu/~mitchell">Animations of the game of two identical vehicles</a>
--->
+   <dd> <a href="https://twitter.com/KARTHIKPAGA">@KARTHIKPAGA</a>
+<dt><b>Portfolio<b>
+ <dd> <a href="https://github.com/pagakarthik">GitHub</a>
+ <dd> <a href="https://www.linkedin.com/in/pagakarthik">LinkedIn</a>
+ <dd> <a href="mailto:paga@cs.ubc.ca">Email</a>
+
 </dl>
 </td>
 <td><img src="karthik.JPG" alt="Karthik Paga" style="width:250px;height:250px"></td>
@@ -35,7 +35,7 @@
 <table width=100%>
 <td> 
 
-<p>Interest and propective research topics:
+<p>Interests and propective research topics:
 
 <ul>
 
@@ -99,20 +99,25 @@ This project extends
 </table>
 
 <HR size = 2 width = "75%">
+<h3> ROBOTS :) </h3>
+<table width=100%>
+<td> 
 
-<h2>Related links</h2>
-<p>
-<a href="https://github.com/pagakarthik">GitHub</a>
-</p>
-<p>
-<a href="https://www.linkedin.com/in/pagakarthik">LinkedIn</a>
-</p>
-<p>
-<a href="https://twitter.com/KARTHIKPAGA">@KARTHIKPAGA</a>
-</p>
-<p>
-<a href="mailto:paga@cs.ubc.ca">Email</a>
-</p>
+Personal and Assistive Robot: Smart powered Wheelchair: Collaborative control (or) shared control policy
+<a href= "http://www.canwheel.ca/our-research/current-projects/project-iii/">CanWheel</a> 
+
+</td>
+<td><img src="paga.jpg" alt="original scene" style="width:350px;height:300px"></td>
+<td> 
+
+PR2 : Personal robot: Research robot 
+<a href= "http://caris.mech.ubc.ca/research/experiments/#matthew">Charlie</a> 
+
+</td>
+<td><img src="charlie.jpg" alt="PR2" style="width:350px;height:350px"></td>
+</table>
+
+<HR size = 2 width = "75%">
 
 <p>
 <h2>Suggested Readings: Robotics and Computational intelligence</h2>
@@ -134,7 +139,7 @@ Probabilistic Robot Mapping, authors: Michael Kaess, Viorela Ila, Richard Robert
 * <a href="https://github.com/pagakarthik/perception_pcl/tree/hydro-devel/pcl_ros_hydro">PCl tutorials for ROS_hydro</a>
 </b>
 </p>
-
+<HR size = 2 width = "75%">
 <p>
 <h3>Interesting projects driven towards positive social impact :)</h4>
 <b>
@@ -144,6 +149,7 @@ Probabilistic Robot Mapping, authors: Michael Kaess, Viorela Ila, Richard Robert
  <a href="http://i4d.mit.edu/audio-tactile-speech-aids-for-the-deaf-hearing-impaired/">Innovation Centre (http://i4d.mit.edu)</a></p></p>
 </b>
 </p>
+<HR size = 2 width = "75%">
 <h2>Organization and Labs</h2>
 <p> *<a href="http://www.openprojects.in/">Creation Labs, Global presence via Open Projects</a></p>
 <p> *<a href="http://i4d.mit.edu/">Innovation for Development(http://i4d.mit.edu)</a></p>
