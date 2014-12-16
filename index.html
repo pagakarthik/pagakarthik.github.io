@@ -31,6 +31,76 @@
 </table>
 
 <HR size = 2 width = "75%">
+
+<table width=100%>
+<td> 
+
+<p>Interest and propective research topics:
+
+<ul>
+
+  <li>Feature based navigation of robots in constrained & unknown terrain
+
+  <li>Obstacle shape estimation by using approximate comcentrations of simple geometric curves
+
+  <li>Single pass (FMM, OUM) and sweeping algorithms for static
+  Hamilton-Jacobi PDEs.
+
+  <li>High quality, publically released implementations of these
+  algorithms.
+
+  <li>Application of these algorithms to path planning for autonomous
+  and semi-autonomous systems.
+
+</ul>
+
+<p>For those interested in experimenting the Point cloud library over ROS for robot perception
+ such as, euclidean cluster extarction, object pose estimation, sementation (minicut etc.), I have published:
+
+<h3><a href="https://github.com/pagakarthik/perception_pcl/tree/hydro-devel">The ROS tutorials for real time 3D point cloud processing</a></h3>
+
+<p>I will soon update the wiki for consolidated a pipeline which can ease the simple tasks in robot perception (hobby projects) to identify the object and lablel each in the scene, segmentation, extract features or centroid estimation. These tutorials cover the modules which would form the robot perception tree. Individual explanations have been authored and well documented in their respective tutorials @ http://pointcloud.org. (comments included in respectice source scripts as well) --Happy Robot(ifying)--
+</p>
+</td>
+<td><img src="pcl_logo.png" alt="Point cloud Library" style="width:125px;height:75px"></td>
+<td><img src="ROS_logo.png" alt="Robot Operating System" style="width:125px;height:50px"></td>
+
+</table>
+<HR size = 2 width = "75%">
+
+
+<h3>Capstone Project</h3>
+<h4>Abstract</h4>
+<p>Mobile robots (smart powered wheelchairs) for indoor navigation offer the possibility of
+enhanced mobility to a large and growing population (most notably older adults), and a key
+feature of such a chair is obstacle recognition and avoidance. Sensors are required to detect
+nearby obstacles; however, complete sensor coverage of the immediate neighborhood is
+challenging for reasons including financial, computational, aesthetic, user identity and sensor
+reliability. However, direct modeling and control of commercial wheelchairs is not possible
+because of proprietary internals and interfaces (standard CANBUS protocols). In this work we
+design a dynamic egocentric occupancy map which maintains information about local obstacles
+even when they are outside the field of view of the sensor system on the basis of a probabilistic
+mapping scheme, thus serving as a task specific module. The end result of the SLAM algorithm
+is an egocentric polar occupancy grid map published as a point cloud.
+</p>
+<p>Keywords: information agglomeration matrix, recursive state
+estimation, obstacle detection, map estimation without full sensor coverage, bayes filter
+algorithm, markov assumption. </p>
+<p><a href="summary_of_work.pdf"> Brief explantion</a>
+</p>
+This project extends 
+"A risk assessment infrastructure for powered wheelchair motion commands without full sensor coverage" work done by Pouria Talebifard et al.,  presented at <a href="https://ras.papercept.net/conferences/conferences/IROS14/program/IROS14_ContentListWeb_4.html"> IROS 2014, Chicago</a>
+<table width=100%>
+<td>
+
+<td><img src="s1.png" alt="original scene" style="width:550px;height:500px"></td>
+<td><img src="d1.png" alt="Dynamic Egocentric map" style="width:550px;height:500px"></td>
+
+</table>
+
+<HR size = 2 width = "75%">
+
+<h2>Related links</h2>
 <p>
 <a href="https://github.com/pagakarthik">GitHub</a>
 </p>
@@ -45,13 +115,14 @@
 </p>
 
 <p>
-<h2>Robotics and Computational intelligence</h2>
-<h3>Studied technical books and articles</h3>
+<h2>Suggested Readings: Robotics and Computational intelligence</h2>
 <b>
 <p>* <a href="http://robots.stanford.edu/papers/thrun.iros01-occmap.pdf">Occupancy Grids, a wonderful reading for beginners (S.Thrun @CMU)</a></p>
 <p>* Probablistic Robotics by Wolfram Burgard, Dieter Fox, and Sebastian Thrun</p>
-<p>* A Risk Assessment Infrastructure for Powered Wheelchair Motion Commands without Full Sensor Coverage", in IEEE/RSJ Int. Conf. on Intelligent Robots and Systems,Pouria TalebiFard, Junaed Sattar, Ian M. Mitchell</p>
-<p>* Detailed study on Egocentric maps and occupancy grids</p>
+<p>* Springer Handbook of Robotics, editors: Bruno Siciliano, Oussama Khatib </p>
+<p>* Handbook of Machine Vision, edited by Alexander Hornberg </p>
+<p>* The Bayes Tree: An Algorithmic Foundation for
+Probabilistic Robot Mapping, authors: Michael Kaess, Viorela Ila, Richard Roberts and Frank Dellaert</p>
 <h4>Discussions</h4>
 	<a href="http://www.cs.ubc.ca/nest/lci/robuds/">Robuddies Reading Group [June-August]</a>
 </b>
