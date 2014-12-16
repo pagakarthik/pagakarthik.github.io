@@ -1,6 +1,9 @@
-<!DOCTYPE html>
-<html>
--<body>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Karthik Paga's Home Page</title>
+</head>
+
+<body>
 <h1>Venkata Rama KARTHIK PAGA</h1>
 
 <p>I love to decipher and debug</p>
@@ -54,8 +57,8 @@
 
 </ul>
 
-<p>For those interested in experimenting the Point cloud library over ROS for robot perception
- such as, euclidean cluster extarction, object pose estimation, sementation (minicut etc.), I have published:
+<p>For those interested in experimenting the Point cloud library over ROS for robot perception on topics
+ such as, euclidean cluster extarction, object pose estimation, sementation (minicut etc.) etc., I have published:
 
 <h3><a href="https://github.com/pagakarthik/perception_pcl/tree/hydro-devel">The ROS tutorials for real time 3D point cloud processing</a></h3>
 
