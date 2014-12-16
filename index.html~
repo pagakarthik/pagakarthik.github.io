@@ -43,14 +43,14 @@
 
   <li>Obstacle shape estimation by using approximate comcentrations of simple geometric curves
 
-  <li>Single pass (FMM, OUM) and sweeping algorithms for static
-  Hamilton-Jacobi PDEs.
+  <li>Applications of SLAM in minimally invansive surgeries.
 
-  <li>High quality, publically released implementations of these
-  algorithms.
+  <li>Validating novel algorithms such as iSAM2 and RISE etc., which could attend key issues(online, compuatational efficeicy, reduced data storage etc.)   in SLAM of mobile robots
 
   <li>Application of these algorithms to path planning for autonomous
   and semi-autonomous systems.
+
+  <li>path planning and teleopration being the subsequent research topics in my interest for autonomy of robots. 
 
 </ul>
 
@@ -160,5 +160,18 @@ Probabilistic Robot Mapping, authors: Michael Kaess, Viorela Ila, Richard Robert
 <p> *<a href="http://www.thelattice.in/">R&D intern with GLOCAL, medtech team</a></p>
 <p> *<a href="http://www.jugaadathon.com/">Jugaadathon~ Proud participant and alumni</a></p>
 <p> *<a href="http://www.massgeneralcenterforglobalhealth.org/camtech/">CAMtech</a></p>
+
+<HR size = 2 width = "75%">
+
+<address>
+
+<p>
+Created 26 October 2014.<br>
+Last updated 16 December 2014.<br>
+
+Created and maintained by <a
+HREF="http://pagakarthik.github.io/">Karthik Paga</a>.
+
+</address>
 </body>
 </html>
