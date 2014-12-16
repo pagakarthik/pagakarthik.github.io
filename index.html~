@@ -67,8 +67,7 @@
 
 </table>
 <HR size = 2 width = "75%">
-<table width=100%>
-<td>
+
 
 <h3>Capstone Project</h3>
 <h4>Abstract</h4>
@@ -91,7 +90,9 @@ algorithm, markov assumption. </p>
 </p>
 This project extends 
 "A risk assessment infrastructure for powered wheelchair motion commands without full sensor coverage" work done by Pouria Talebifard et al.,  presented at <a href="https://ras.papercept.net/conferences/conferences/IROS14/program/IROS14_ContentListWeb_4.html"> IROS 2014, Chicago</a>
-</td>
+<table width=100%>
+<td>
+
 <td><img src="s1.png" alt="original scene" style="width:550px;height:500px"></td>
 <td><img src="d1.png" alt="Dynamic Egocentric map" style="width:550px;height:500px"></td>
 
@@ -110,7 +111,7 @@ This project extends
 <a href="https://twitter.com/KARTHIKPAGA">@KARTHIKPAGA</a>
 </p>
 <p>
-<a href="mailto:karthikpaga@gmail.com">Email</a>
+<a href="mailto:paga@cs.ubc.ca">Email</a>
 </p>
 
 <p>
