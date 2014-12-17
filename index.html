@@ -8,7 +8,7 @@
 
 <p>I love to decipher and debug</p>
 <b>
-"I think that it's extraordinarily important that we in computer science keep fun in computing. What you know about computing other people will learn. The key to successful computing cannot be confined to your hands. What's in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more." Alan J. Perlis (1922-1990)
+"I think that it's extraordinarily important that we in computer science keep fun in computing[...] What you know about computing other people will learn[...] The key to successful computing cannot be confined to your hands. What's in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more." Alan J. Perlis (1922-1990)
 </b>
 
 <table width=100%>
@@ -89,14 +89,17 @@ is an egocentric polar occupancy grid map published as a point cloud.
 <p>Keywords: information agglomeration matrix, recursive state
 estimation, obstacle detection, map estimation without full sensor coverage, bayes filter
 algorithm, markov assumption. </p>
-<p><a href="summary_of_work.pdf"> Brief explantion</a>
+<p><a href="summary_of_work.pdf"> Summary</a>
 </p>
 This project extends 
 "A risk assessment infrastructure for powered wheelchair motion commands without full sensor coverage" work done by Pouria Talebifard et al.,  presented at <a href="https://ras.papercept.net/conferences/conferences/IROS14/program/IROS14_ContentListWeb_4.html"> IROS 2014, Chicago</a>
+<HR size = 2 width = "75%">
 <table width=100%>
 <td>
-
-<td><img src="s1.png" alt="original scene" style="width:550px;height:500px"></td>
+The first image (left) describes an indoor navigation scene, a static obstacle (blue recycling bin) in the mid way of the robot. The 2nd image (right) depicts (the map) the same scene as perceived by the robot. We can infer that the map generated is a close representation of the ground truth and the algorithm performs well at classifying the navigable space, obstacles and the occluded region. 
+<p>The spectral color of each node in the map represents a quantitative value (Belief) which indicates the region around the node to be navigable. Higher the value, greater the likelihood for the region to be obstacle free. 
+<p>VIBGYOR: violet-> not navigable...yellow-> equally likely...red-> navigable 
+<td><img src="scene.png" alt="original scene" style="width:550px;height:500px"></td>
 <td><img src="d1.png" alt="Dynamic Egocentric map" style="width:550px;height:500px"></td>
 
 </table>
@@ -117,7 +120,7 @@ PR2 : Personal robot: Research robot
 <a href= "http://caris.mech.ubc.ca/research/experiments/#matthew">Charlie</a> 
 
 </td>
-<td><img src="charlie.jpg" alt="PR2" style="width:350px;height:350px"></td>
+<td><img src="charlie.jpg" alt="PR2" style="width:350px;height:300px"></td>
 </table>
 
 <HR size = 2 width = "75%">
