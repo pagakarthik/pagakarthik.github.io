@@ -55,13 +55,19 @@ color:: #000000
 </style>
 
 <title>Karthik Paga's Home Page</title>
+<link rel="icon" 
+      type="image/png" 
+      href="http://www.canwheel.ca/files/2010/10/Karthik-Paga1.jpg">
 </head>
 
 <body>
 <h1>Venkata Rama Karthik Paga</h1>
 <h3>I love to decipher and debug</h3>
 
-
+<p>
+"I think that it's extraordinarily important that we in computer science keep fun in computing[...] What you know about computing other people will learn[...] The key to successful computing cannot be confined to your hands. What's in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more."
+<a href= "http://en.wikipedia.org/wiki/Alan_Perlis"> - Alan J. Perlis</a> (1922-1990)
+</p>
 
 <table width=100%>
 <td>
@@ -82,15 +88,13 @@ color:: #000000
  <dd> <a href="https://github.com/pagakarthik">GitHub</a>
  <dd> <a href="https://www.linkedin.com/in/pagakarthik"><img src="https://static-ctrl.licdn.com/scds/common/u/img/webpromo/btn_liprofile_blue_80x15.png" width="80" height="18" border="1" alt="View Karthik Paga's profile on LinkedIn"></a>
  <dd> <a href="mailto:paga@cs.ubc.ca">Email</a>
-
-<dt><b> Contact: </b>
-   <dd> email: paga (at) cs (dot) ubc (dot) ca,</a> 
-   <dd> email: venkata (dot) makarthikpaga2011 (at) vit (dot) ac (dot) in</a>
-   <dd> tel: (+91) 7598855445
-   <dd> mail: H-356, John F Kennedy Block, VIT University, Vellore, TN-632014
-   <dd> <a href = "http://pagakarthik.github.io/bio.html">Personal touch :)</a> 
-   <!--<dd> <a href="https://twitter.com/KARTHIKPAGA">@KARTHIKPAGA</a> -->
-
+</dl>
+</td>
+<td><img src="http://www.canwheel.ca/files/2010/10/Karthik-Paga1.jpg" alt="Karthik Paga" style="width:250px;height:250px"></td>
+</table>
+<table width=100%>
+<td>
+<dl>
 <dt><b>References</b>
   <dd> <a href = "http://www.cs.ubc.ca/~mitchell/"> Dr. Ian M. Mitchell</a>
   <dd> Computer Science Department, University of British Columbia.
@@ -100,14 +104,20 @@ color:: #000000
   <dd> Medical Director, Consortium for Affordable Medical Technology (CAMTech)  
 </dl>
 </td>
-<td><img src="karthik.JPG" alt="Karthik Paga" style="width:250px;height:250px"></td>
+<td>
+<dl>
+<dt><b> Contact: </b>
+   <dd> email: paga (at) cs (dot) ubc (dot) ca,</a> 
+   <dd> email: venkata (dot) makarthikpaga2011 (at) vit (dot) ac (dot) in</a>
+   <dd> tel: (+91) 7598855445
+   <dd> mail: H-356, John F Kennedy Block, VIT University, Vellore, TN-632014
+   <dd> <a href = "http://pagakarthik.github.io/bio.html">Personal touch :)</a> 
+   <!--<dd> <a href="https://twitter.com/KARTHIKPAGA">@KARTHIKPAGA</a> -->
+</dl>
+</td>
 </table>
 
 <HR size = 2 width = "75%">
-<p>
-"I think that it's extraordinarily important that we in computer science keep fun in computing[...] What you know about computing other people will learn[...] The key to successful computing cannot be confined to your hands. What's in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more."
-<a href= "http://en.wikipedia.org/wiki/Alan_Perlis"> - Alan J. Perlis</a> (1922-1990)
-</p>
 
 <table width=100%>
 <td> 
