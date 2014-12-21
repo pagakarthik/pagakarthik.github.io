@@ -2,4 +2,14 @@
 <html> <head>
 <title>Some kind of science guy </title>
 </head>
+<h1>Some kind of a science guy</h1>
+<body>
+<p>
+The story of Kaizen, 
+<dt> 
+ <dd>born in vancouver, brought up in India,  and presently on a world tour 
+<img src="kaizen.jpg" alt="Kaizen" style="width:600px;height:450px"> She is touring Russia this week! 
+<h6> will be updated till 25th December </h6>
+</p>
+</body>
 </html>
