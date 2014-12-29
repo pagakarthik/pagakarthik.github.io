@@ -1,145 +1,79 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html> <head>
+<html dir="ltr" lang="en"> 
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+<head>
 
-<style type="text/css">
-body {
-  background: #ffffff;
-  font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size: 16px;
-  color: #000000;
-}
-h1 {
-  color: #993399;
-  font-family: Arial,Helvetica,sans-serif;
-  font-size: 24pt;
-  font-weight: bold;
-  line-height: 120%;
-}
-pre {
-  margin: 0cm 0cm 0.5cm 0.3cm;
-  font-family: "Courier New",Courier,monospace;
-  font-size: 12pt;
-  font-weight: bold;
-  color: #993399;
-}
-
-h2.separator {
-  margin-bottom: 0px;
-  border-bottom: 2px solid #999999;
-  font-size: 20px;
-}
-h3.separator {
-  margin-bottom: 0px;
-  border-bottom: 2px solid #99cc99;
-}
-h4.separator {
-  margin-bottom: 0px;
-  border-bottom: 2px solid #99cc99;
-}
-h5.separator {
-  margin-bottom: 0px;
-  border-bottom: 2px solid #99cc99;
-}
-h6.separator {
-  margin-bottom: 0px;
-  border-bottom: 2px solid #99cc99;
-}
-img {
-  border: 0px;
-}
-a:hover {
-  color: #660000;
-  background: #ffee99;
-  text-decoration: underline;
-}
-a:link {
-  color: #660000;
-  text-decoration: none;
-}
-a:visited {
-  color: #660000;
-  text-decoration: none;
-}
-
-table.itemlist {
-  /* border-top: 1px solid #000000; */
-  padding-top: 0px;
-  margin-top: 4px;
-font-size: 16px;
-}
-
-p {
-  margin-top: 0;
-  margin-bottom: 0;
-font-size: 18px;
-color:: #000000
-}
-address {
-  line-height: 120%;
-  font-family: "Courier New",Courier,monospace;
-  margin-top: 0cm;
-  font-size: 8pt;
-  margin-bottom: 0.1cm;
-  font-style: normal;
-}
-</style>
+<link rel="stylesheet" href="stylesheet.css" type="text/css">
+<meta content="Homepage of Karthik Paga" name="description">
+    <meta content="Karthik Paga" name="author">
 
 <title>Karthik Paga's Home Page</title>
-
-    <meta content="Homepage of Venkata Rama KARTHIK Paga" name="description">
-    <meta content="Venkata Rama Karthik Paga" name="author">
-  </head>
-  <body>
-    <table style="text-align: left; height: 475px;" border="0" cellpadding="0" cellspacing="0">
-      <tbody>
-        <tr>
-          <td style="vertical-align: top; width: 190px;">
-            <table style="text-align: left;" border="0" cellpadding="0" cellspacing="0">
-              <tbody>
-                <tr>
-                  <td style="vertical-align: top; height: 140px;"><br>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <br>
-            <pre>* Home</pre>
-            <pre>  <a href="research.html">Current Research</a></pre>
-            <pre>  <a href="bio.html">Resume</a></pre>
-            <pre>  <a href="blog.html">People and travel</a></pre>
-            <pre>  <a href="pprojects.html">Projects</a></pre>
-            <pre>  <a href="clab.html">Creation Labs</a>  <br><br>  <a href="tutorials.html">Software & Tutorials</a></pre>
-            <pre>  <a href="http://i4d.mit.edu/">http://i4d.mit.edu/</a></pre>
-            <pre>  <a href="organizations.html">Sponsors</a></pre>
-          </td>
-          <td style="width: 1px; background-color: rgb(102, 0, 0); vertical-align: top;"><br>
-          </td>
-          <td style="width: 19px;"> <br>
-          </td>
-          <td style="width: 620px;">
-            <table border="0" cellpadding="0" cellspacing="0">
-              <tbody>
-                <tr>
-                  <td style="width: 140px; height: 140px;"> <img style="width: 120px; height: 128px;"
-                      alt="Karthik Paga"
-                      src="Karthik-Paga.jpg"><br>
-                  </td>
-                  <td>
-                    <h1>Venkata Rama Karthik Paga</h1>
-                    <h3>I love to decipher and debug</h3>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
 <link rel="icon" 
       type="image/png" 
-      href="Karthik-Paga.jpg">
+      href="http://www.canwheel.ca/files/2010/10/Karthik-Paga1.jpg">
 </head>
-<br>
 
 <body>
+<h1>Venkata Rama Karthik Paga</h1>
+<h3>I love to decipher and debug</h3>
 
+<p>
+"I think that it's extraordinarily important that we in computer science keep fun in computing[...] What you know about computing other people will learn[...] The key to successful computing cannot be confined to your hands. What's in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more."
+<a href= "http://en.wikipedia.org/wiki/Alan_Perlis"> - Alan J. Perlis</a> (1922-1990)
+</p>
 
+<table width=100%>
+<td>
+<dl>
+<dt><b>Education</b>
+    <dd> Final year B.Tech Mechanical engineering student at VIT University in Vellore, India (2011-2015)
+    <dd> Recipient of MITACS scholarship (2014)
+<dt><b>Intern</b>
+    <dd> Research internship at Univesity of British Columbia in vancouver, Canada (2014)
+    
+    <dd> Professional Internship at GLOCAL MedTech R&D department, India (2013)
+    
+<dt><b>Research Institutes</b>
+ <dd> <p><a href="http://i4d.mit.edu/audio-tactile-speech-aids-for-the-deaf-hearing-impaired/">Centre for Innovation and Development, VIT university</a>  Creation Labs, VIT University (Co-founder and Co-director)</p>
+ <dd> <a href="http://odin2.mech.ubc.ca/wiki/index.php/PR2_Wiki#Approved_Users">CARIS Lab~ Meche@UBC,</a> <a href="http://canwheel.org/aboutus/people/trainees/past">CanWheel Project,</a> <a href="https://www.cs.ubc.ca/cs-research/lci">Laboratory of Computational Intelligence~ CS@UBC</a> 
+
+<dt><b>Portfolio</b>
+ <dd> <a href="https://github.com/pagakarthik">GitHub</a>
+ <dd> <a href="https://www.linkedin.com/in/pagakarthik"><img src="https://static-ctrl.licdn.com/scds/common/u/img/webpromo/btn_liprofile_blue_80x15.png" width="80" height="18" border="1" alt="View Karthik Paga's profile on LinkedIn"></a>
+ <dd> <a href="mailto:paga@cs.ubc.ca">Email</a>
+</dl>
+</td>
+<td><img src="http://www.canwheel.ca/files/2010/10/Karthik-Paga1.jpg" alt="Karthik Paga" style="width:250px;height:250px"></td>
+</table>
+<table width=100%>
+<td>
+<dl>
+<dt><b>References</b>
+  <dd> <a href = "http://www.cs.ubc.ca/~mitchell/"> Dr. Ian M. Mitchell</a>
+  <dd> Computer Science Department, University of British Columbia.
+  <dd> Researcher at <a href = "http://canwheel.org/"> CANWHEEL</a>
+  <dd> <a href = "http://www.massgeneral.org/doctors/doctor.aspx?ID=17235" > Dr. Kristian R. Olson</a>
+  <dd> Massachusetts General Hospital, Center for Global Health; Assistant Professor, Harvard Medical School 
+  <dd> Medical Director, Consortium for Affordable Medical Technology (CAMTech)  
+</dl>
+</td>
+<td>
+<dl>
+<dt><b> Contact: </b>
+   <dd> email: paga (at) cs (dot) ubc (dot) ca,</a> 
+   <dd> email: venkata (dot) makarthikpaga2011 (at) vit (dot) ac (dot) in</a>
+   <dd> tel: (+91) 7598855445
+   <dd> mail: H-356, John F Kennedy Block, VIT University, Vellore, TN-632014
+   <dd> <a href = "http://pagakarthik.github.io/bio.html">Personal touch :)</a> 
+   <!--<dd> <a href="https://twitter.com/KARTHIKPAGA">@KARTHIKPAGA</a> -->
+</dl>
+</td>
+</table>
+
+<HR size = 2 width = "75%">
+
+<table width=100%>
+<td> 
 
 <p>Interests and propective research topics:
 
@@ -159,27 +93,6 @@ address {
   <li>path planning and teleopration being the subsequent research topics in my interest for autonomy of robots. 
 
 </ul>
-<p>
-Currently, I am serving as the co-lead of <a href= "http://pagakarthik.github.io/clab.html">Creation Labs</a> at VIT University- a multidisciplinary research platform which we co-founded in 2014. And I am a research affiliate at the Laboratory of Computational Intelligence, UBC where we are working on an robot navigation model for the <a href= "www.canwheel.org">Canwheel</a> project <br>
-</p>
-<!--<p>
-"I think that it's extraordinarily important that we in computer science keep fun in computing[...]
-What you know about computing other people will learn[...] The key to successful computing cannot be confined to your hands.
-What's in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more."
-<a href= "http://en.wikipedia.org/wiki/Alan_Perlis"> - Alan J. Perlis</a> (1922-1990)
-</p>-->
-<HR size = 1 width = "75%">
-		   <dt><b> You can reach me at </b>
-   		   <dd> email: paga (at) cs (dot) ubc (dot) ca,</a> 
-   		   <dd> email: venkata (dot) makarthikpaga2011 (at) vit (dot) ac (dot) in</a>
-      	 	   <dd> tel: (+91) 7598855445
-   		   <dd> mail: H-356, John F Kennedy Block, VIT University, Vellore, TN-632014
-
-
-</body>
-<!--
-<table width=100%>
-<td> 
 
 <p>For those interested in experimenting the Point cloud library over ROS for robot perception on topics
  such as, euclidean cluster extarction, object pose estimation, sementation (minicut etc.) etc., I have published:
@@ -193,8 +106,6 @@ What's in your hands, I think and hope, is intelligence: the ability to see the 
 <td><img src="ROS_logo.png" alt="Robot Operating System" style="width:125px;height:50px"></td>
 
 </table>
-
-
 <HR size = 2 width = "75%">
 
 
@@ -299,7 +210,7 @@ Probabilistic Robot Mapping, authors: Michael Kaess, Viorela Ila, Richard Robert
 <td><a href = "http://canwheel.org/"><img src="http://med-fom-canwheel.sites.olt.ubc.ca/files/2014/06/canwheel_logo-large.gif" alt="CANWHEEL" style="width:500px;height:200px"></a></td>
 
 <td><a href = "http://www.massgeneralcenterforglobalhealth.org/camtech/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdaM_L3_BlHf7dSMj_r0OWhFCwGAN9bqd462QnqmIy1k3S-YVjVQ" alt="CMATech" style="width:500px;height:300px"></a></td>
-<!--<td><a href = "http://caris.mech.ubc.ca/"><img src="http://www.sites.mech.ubc.ca/~nshirzad/images/CarisBanner_nosubtitle2.jpg" alt="CARIS Lab @UBC" style="width:400px;height:200px"></a></td> 
+<!--<td><a href = "http://caris.mech.ubc.ca/"><img src="http://www.sites.mech.ubc.ca/~nshirzad/images/CarisBanner_nosubtitle2.jpg" alt="CARIS Lab @UBC" style="width:400px;height:200px"></a></td> -->
 </table>
 
 <table width=100%>
@@ -312,7 +223,7 @@ Probabilistic Robot Mapping, authors: Michael Kaess, Viorela Ila, Richard Robert
 
 <td><a href = "http://www.makerfest.com/"><img src="http://www.startatsv.com/wp-content/uploads/2013/12/maker_fest_Ah.png" alt="Makerfest" style="width:100px;height:100px"></a></td>
 </table>
--->
+
 <HR size = 2 width = "75%">
 
 <address>

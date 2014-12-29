@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Research of Venkata Rama Karthik Paga </title>
+</head>
+<link rel="stylesheet" href="stylesheet.css" type="text/css">
+<title>Karthik Paga's Research work</title>
+
+    <meta content="Homepage of Venkata Rama KARTHIK Paga" name="description">
+    <meta content="Venkata Rama Karthik Paga" name="author">
+  </head>
+  <body>
+    <table style="text-align: left; height: 475px;" border="0" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td style="vertical-align: top; width: 190px;">
+            <table style="text-align: left;" border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td style="vertical-align: top; height: 140px;"><br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <br>
+            <pre>  <a href="index.html">Home</a></pre>
+            <pre>  * Current Research</a></pre>
+            <pre>  <a href="bio.html">Resume</a></pre></a></pre>
+            <pre>  <a href="blog.html">People and travel</a></pre>
+            <pre>  <a href="projects.html">Projects</a></pre>
+            <pre>  <a href="clab.html">Creation Labs</a>  <br><br>  <a href="tutorials.html">Software & Tutorials</a></pre>
+            <pre>  <a href="http://i4d.mit.edu/">http://i4d.mit.edu/</a></pre>
+            <pre>  <a href="organizations.html">Sponsors</a></pre>
+          </td>
+          <td style="width: 1px; background-color: rgb(102, 0, 0); vertical-align: top;"><br>
+          </td>
+          <td style="width: 19px;"> <br>
+          </td>
+          <td style="width: 620px;">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                 <td style="width: 140px; height: 140px;"> <img style="width: 120px; height: 128px;"
+                      alt="Karthik Paga"
+                      src="Karthik-Paga.jpg"><br>
+                  </td>
+                  <td>
+                    <h1>Research</h1>
+                    <h3>I love to decipher and debug</h3>                    
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+<link rel="icon" 
+      type="image/png" 
+      href="Karthik-Paga.jpg">
+</head>
+<HR size = 2 width = "75%">
+<body>
+
+<p>
+"I think that it's extraordinarily important that we in computer science keep fun in computing[...]
+What you know about computing other people will learn[...] The key to successful computing cannot be confined to your hands.
+What's in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led to it, that you can make it more."
+<a href= "http://en.wikipedia.org/wiki/Alan_Perlis"> - Alan J. Perlis</a> (1922-1990)
+</p>
+<HR size = 2 width = "75%">
+
+
+<h3>Current Research</h3>
+<p>
+					<div class="large-12 medium-12 small-12 columns" id="restable">
+						<HR size = 3 width = "50%"><table>
+							<tr>
+								<td><b>Collaborators</b></td><td>:</td><td>Laboratory of Computational Intelligence, UBC<br/>CanWheel,<br/> Canada.</b></td>
+							</tr>
+							<tr>
+								<td><b>Project Guides</b></td><td>:</td><td>Professor Ian M. Mitchell.</td>
+							</tr>
+							<tr>
+								<td><b>Team Members</b></td><td>:</td><td> Karthik Paga,<br/> Neil Traft,<br/> Pouria TalebiFard,<br/> Bikram Adhikari,<br> Pooja Vishwanathan.</td>
+							</tr>
+							<tr>
+								<td><b>Institution</b></td><td>:</td><td>Institute for Computing, Information and Cognitive Sciences,<br> University of British Columbia<br/> Vancouver,<br/> Canada.</td>
+							</tr>
+						</table><HR size = 3 width = "50%">
+						<br/>
+					</div>
+				</p>
+<h4>Abstract</h4>
+<p>Mobile robots (smart powered wheelchairs) for indoor navigation offer the possibility of
+enhanced mobility to a large and growing population (most notably older adults), and a key
+feature of such a chair is obstacle recognition and avoidance. Sensors are required to detect
+nearby obstacles; however, complete sensor coverage of the immediate neighborhood is
+challenging for reasons including financial, computational, aesthetic, user identity and sensor
+reliability. However, direct modeling and control of commercial wheelchairs is not possible
+because of proprietary internals and interfaces (standard CANBUS protocols). In this work we
+design a dynamic egocentric occupancy map which maintains information about local obstacles
+even when they are outside the field of view of the sensor system on the basis of a probabilistic
+mapping scheme, thus serving as a task specific module. The end result of the SLAM algorithm
+is an egocentric polar occupancy grid map published as a point cloud.
+</p>
+<p>Keywords: information agglomeration matrix, recursive state
+estimation, obstacle detection, map estimation without full sensor coverage, bayes filter
+algorithm, markov assumption. </p>
+<p><a href="summary_of_work.pdf"> Copy of the design report</a>
+</p>
+This project extends 
+"A risk assessment infrastructure for powered wheelchair motion commands without full sensor coverage" work done by Pouria Talebifard et al.,  presented at <a href="https://ras.papercept.net/conferences/conferences/IROS14/program/IROS14_ContentListWeb_4.html"> IROS 2014, Chicago</a>
+<HR size = 2 width = "10%">
+<h4>Validation</h4>
+<p>
+The first image  describes an indoor navigation scene, a static obstacle (blue recycling bin) in the mid way of the robot.</p>
+<img src="scene.png" alt="original scene" style="width:550px;height:500px"><br>
+
+<p> The 2nd image depicts (the map) the same scene as perceived by the robot. We can infer that the map generated is a close representation of the ground truth and the algorithm performs well at classifying the navigable space, obstacles and the occluded region. </p>
+<p><img src="d1.png" alt="Dynamic Egocentric map" style="width:550px;height:500px"></p>
+<p>The spectral color of each node in the map represents a quantitative value (Belief) which indicates the region around the node to be navigable. Higher the value, greater the likelihood for the region to be obstacle free. </p>
+
+<p>VIBGYOR: violet-> not navigable...yellow-> equally likely...red-> navigable </p>
+
+<p>work in progress....</p>
+<HR size = 2 width = "75%">
+<p>For those interested in experimenting the Point cloud library over ROS for robot perception on topics
+ such as, euclidean cluster extarction, object pose estimation, sementation (minicut etc.) etc., I have published:
+
+<h4><a href="https://github.com/pagakarthik/perception_pcl/tree/hydro-devel">The ROS tutorials for real time 3D point cloud processing</a></h4>
+<table width=100%>
+<td> 
+<td><img src="pcl_logo.png" alt="Point cloud Library" style="width:125px;height:75px">
+<img src="ROS_logo.png" alt="Robot Operating System" style="width:125px;height:50px"></td>
+</td></table>
+<p>--Happy Robot(ifying)--</p>
+<p>I will soon update the wiki and tutorial demonstrating a  consolidated pipeline which can ease the simple tasks in robot perception (hobby projects) to identify the object and lablel each in the scene, segmentation, extract features or centroid estimation. These tutorials cover the modules which would form the robot perception tree. Individual explanations have been authored and well documented in their respective tutorials @ http://pointcloud.org. (comments included in respectice source scripts as well) </p>
+<HR size = 2 width = "75%">
+<h3> ROBOTS :) </h3>
+ 
+<p>
+Personal and Assistive Robot: Smart powered Wheelchair: Collaborative control (or) shared control policy
+<a href= "http://www.canwheel.ca/our-research/current-projects/project-iii/">CanWheel</a> 
+
+
+<img src="paga.jpg" alt="original scene" style="width:350px;height:300px">
+<br>
+
+PR2 : Personal robot: Research robot 
+<a href= "http://caris.mech.ubc.ca/research/experiments/#matthew">Charlie</a> 
+
+
+<img src="charlie.jpg" alt="PR2" style="width:350px;height:300px">
+</p>
+<HR size = 2 width = "75%">
+
+<address>
+
+<p>
+Created 26 October 2014.<br>
+Last updated 16 December 2014.<br>
+
+Created and maintained by <a
+HREF="http://pagakarthik.github.io/">Karthik Paga</a>.
+
+</address>
+</body>
+</html>

@@ -1,0 +1,82 @@
+*|p {
+  line-height: 130%;
+  font-family: Arial,Helvetica,sans-serif;
+  margin-top: 0cm;
+  font-size: 14pt;
+  margin-bottom: 0.5cm;
+}
+*|address {
+  line-height: 120%;
+  font-family: "Courier New",Courier,monospace;
+  margin-top: 0cm;
+  font-size: 12pt;
+  margin-bottom: 0.5cm;
+  font-style: normal;
+}
+*|h1 {
+  color: #993399;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 28pt;
+  font-weight: bold;
+  line-height: 120%;
+}
+*|pre {
+  margin: 0cm 0cm 0.5cm 0.3cm;
+  font-family: "Courier New",Courier,monospace;
+  font-size: 12pt;
+  font-weight: bold;
+  color: #660000;
+}
+*|a:link {
+  color: #660000;
+  text-decoration: none;
+}
+*|a:visited {
+  color: #660000;
+  text-decoration: none;
+}
+*|a:hover {
+  color: red;
+  text-decoration: underline;
+}
+*|h3 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 3em;
+}
+*|ol {
+  font-size: 14pt;
+  list-style-position: outside;
+  font-family: Arial,Helvetica,sans-serif;
+  list-style-type: lower-alpha;
+  line-height: 130%;
+}
+*|h2 {
+  line-height: 120%;
+  font-size: 16pt;
+  font-family: Arial,Helvetica,sans-serif;
+  color: #660000;
+  margin-top: 4em;
+}
+*|ul {
+  line-height: 130%;
+  font-size: 11pt;
+  font-family: Arial,Helvetica,sans-serif;
+  list-style-type: disc;
+  padding-bottom: 0%;
+  height: 0%;
+  margin-bottom: 0%;
+}
+*|li {
+  margin-bottom: 0.7em;
+}
+*|.publist {
+  line-height: 140%;
+  margin-bottom: 0%;
+  list-style-type: decimal-leading-zero;
+  font-size: 13pt;
+  font-family: Arial,Helvetica,sans-serif;
+  list-style-position: outside;
+}

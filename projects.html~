@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Projects of Venkata Rama Karthik Paga </title>
+</head>
+<link rel="stylesheet" href="stylesheet.css" type="text/css">
+<title>Karthik Paga's Projects</title>
+
+    <meta content="Homepage of Venkata Rama KARTHIK Paga" name="description">
+    <meta content="Venkata Rama Karthik Paga" name="author">
+  </head>
+  <body>
+    <table style="text-align: left; height: 475px;" border="0" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td style="vertical-align: top; width: 190px;">
+            <table style="text-align: left;" border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td style="vertical-align: top; height: 140px;"><br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <br>
+            <pre>  <a href="index.html">Home</a></pre>
+            <pre>  <a href="research.html">Current Research</a></pre>
+            <pre>  <a href="bio.html">Resume</a></pre></a></pre>
+            <pre>  <a href="blog.html">People and travel</a></pre>
+            <pre>  * Projects</a></pre>
+            <pre>  <a href="clab.html">Creation Labs</a>  <br><br>  <a href="tutorials.html">Tutorials</a></pre>
+            <pre>  <a href="http://i4d.mit.edu/">http://i4d.mit.edu/</a></pre>
+            <pre>  <a href="organizations.html">Sponsors</a></pre>
+          </td>
+          <td style="width: 1px; background-color: rgb(102, 0, 0); vertical-align: top;"><br>
+          </td>
+          <td style="width: 19px;"> <br>
+          </td>
+          <td style="width: 620px;">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                 <td style="width: 140px; height: 140px;"> <img style="width: 120px; height: 128px;"
+                      alt="Karthik Paga"
+                      src="Karthik-Paga.jpg"><br>
+                  </td>
+                  <td>
+                    <h1>Projects driven towards positive social impact</h1>
+                    <h3>I love to decipher and debug</h3>                    
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+<link rel="icon" 
+      type="image/png" 
+      href="Karthik-Paga.jpg">
+</head>
+<HR size = 2 width = "75%">
+<body>
+<p><h2>Oxygen Mask With Mic</h2>
+			<p><i>Some problems in healthcare which seem obvious are 
+						apparently so obvious that they are overlooked! </i>
+			</p>
+
+<h5> Problem Description</h5>
+							<br/>
+							<p>One such issue is the difficulty that a patient experiences while communicating when he
+							is on oxygen supply through an oxygen mask.  This project was developed as a part of the 
+							Conclave for Innovative Medical Technologies organized by the Consortium of Affordable Medical
+							Technologies of the Massachusetts General Hospital. The idea was to develop an affordable, 
+							simple and a non-invasive way of addressing this problem statement.
+							</p>
+<h5 Solution</h5>
+						<p>
+									Within the next 24 hours, we were able to come up with a solution which was amazingly simple 
+							yet effective! What we had done, was effectively pick-up the vibration from the diaphragm of 
+							the mask using a piezo and amplify it. The amplified signals were then transmitted to the soda
+							can speakers which were integrated with the MIT cap that we received during the pitch session at
+							the start of the conclave.
+							</p>
+							<table>
+								<tr>
+									<td><img src="oxygenmask.jpg" alt="Oxygen mask with mic" style="width:500px;height:300px"></td>
+								<tr>
+								<tr>
+									<td id="bold"><i>Oxygen Mask.</i></td>
+								</tr>
+							</table>
+<h5> Awards</h5>
+						<p>
+									With our creation and our business plan, we were awarded the
+								first prize at the conclave and were covered by some of the major newspapers across the country.</p>
+<h5> Team</h5>
+<table id="team">
+									<th>Team Members</th>
+									<tr>
+										<td rowspan=5>Krishna Prasad V.S., <br/>  Rajat Mishra,<br/> Karthik Paga,<br/> Akshat Wahi,<br/> Dr. Data Santarino,<br/> Dr. Ted Moallem </td>
+									</tr>
+							</table>
+
+						 <table>
+								<tr>
+									<td><img src="team.JPG" alt="My team" style="width:500px;height:300px"></td>
+								<tr>
+								<tr>
+									<td id="bold"><i>Our Team.</i></td>
+								</tr>
+							</table>
+								<p style="text-align:center;">
+									<b>Links : </b> &nbsp;
+									<a href="http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/simple-engineering-solutions-for-complex-medical-problems/article4524578.ece" target="_blank">The Hindu</a>&nbsp;&nbsp; | &nbsp;
+									<a href="http://archives.deccanchronicle.com/130319/news-current-affairs/article/vit-designs-oxygen-mask%E2%80%88-mike" target="_blank">Deccan Chronicle</a>&nbsp;&nbsp; | &nbsp;
+									<a href="http://www.prepsure.com/news/students-of-vit-design-oxygen-mask-with-mike/" target="_blank">Prepsure.com</a>&nbsp;&nbsp;
+								</p>
+
+</p>
+<HR size = 3 width = "75%">
+<p><h2>Low cost digital microscope</h2> wiht fully automated stage, serves the basic purpose of digital microscope. 
+ <a href="http://www.instructables.com/id/Low-cost-digital-microscope-with-automated-slide-m/"><img src="http://3dprint.com/wp-content/uploads/2014/11/logo-instructables-01.png" alt="instructables" style="width:200px;height:100px"></a>
+<img src="microscope.jpg" alt="low cost digital microscope" style="width:350px;height:500px"> <br>
+A cropped section of image (real image = 6* cropped image) is observed to have high image clarity (14Mpx).
+<img src="bloodsmear.png" alt="blood smear image" style="width:350px;height:300px"></p>
+
+<HR size = 3 width = "75%">
+<p><h2>Affordable Audio Tactile Speech aids for the deaf and hearing impaired</h2>
+<p>Mentor: Dr. Theodre M.Moallem, MIT-Harvard HST program </p>
+ <a href="http://i4d.mit.edu/audio-tactile-speech-aids-for-the-deaf-hearing-impaired/">Innovation Centre (http://i4d.mit.edu/audio-tactile-speech-aids)</a>
+<img src="audiotactic.jpg" alt="audio_tactile_feedback" style="width:350px;height:300px"></p>
+
+<p>
+<HR size = 3 width = "75%">
+<h2>E.Y.E. (Enhanced The Eye)</h2>
+<p>Mentoring team: MIT Media Lab Camera Culture group</p>
+<a href="eye_summary.pdf"> [Summary of work.pdf]</a><br>
+What?<br>
+It is essentially an assistive device for the low visioned people (targeting specifically school­going
+children and university students). Its structure is like that of a regular safety glass with a camera
+fixed in the middle and a beam splitter glass mounted in front of it to act as a screen. The
+camera takes in the live feed of the surroundings which is displayed on a laptop screen and is
+then transferred to an android device by remote access feature. The user can zoom in and out
+of feed by rotating a knob present on the arm of the glasses. Also, other video parameters such
+as brightness, contrast, exposure etc can be varied.<br>
+Why?<br>
+Low vision patients have few options to read at distance. The available devices are annoying,
+unaesthetic, heavy and expensive, relying in complex optics mounted on the spectacles or hand
+helded (what keeps them away from writing at the same time as reading).<br>
+Potential impact<br>
+This device meets the need of 246 million people suffering from low vision for a low cost device
+to enhance their vision. Huge market scope.
+<img src="eye1.png" alt="Enhanced your eye device" style="width:350px;height:300px">
+<img src="eye2.png" alt="team at work" style="width:350px;height:300px">
+</p>
+<HR size = 2 width = "75%">
+
+<address>
+<p>
+Created 26 October 2014.<br>
+Last updated 16 December 2014.<br>
+
+Created and maintained by <a
+HREF="http://pagakarthik.github.io/">Karthik Paga</a>.
+
+</address>
+</body>
+</html>
