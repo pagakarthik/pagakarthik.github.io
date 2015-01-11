@@ -76,10 +76,10 @@ color:: #000000
 }
 address {
   line-height: 120%;
-  font-family: "Courier New",Courier,monospace;
+  font-family: Courier,monospace;
   margin-top: 0cm;
-  font-size: 8pt;
-  margin-bottom: 0.1cm;
+  font-size: 6pt;
+  margin-bottom: 0.2cm;
   font-style: normal;
 }
 </style>
@@ -104,6 +104,7 @@ address {
             </table>
             <br>
             <pre>* Home</pre>
+            <pre>  <a href="interests.html">Research Interests</a></pre>
             <pre>  <a href="research.html">Current Research</a></pre>
             <pre>  <a href="bio.html">Resume</a></pre>
             <pre>  <a href="blog.html">People and travel</a></pre>
@@ -139,28 +140,12 @@ address {
 
 <body>
 
+<p>Welcome to my website.  I am a Senior Student at VIT University, pusuing my bachelors in mechanical engineering.  My current research focuses on autonomous navigation of mobile indoor robots.  I wish to develop machines/ devices which can relate an active engagement between humans and machines, driven towards positve social impact. </p>
 
 
-<p>Interests and propective research topics:
 
-<ul>
-
-  <li>Feature based navigation of robots in constrained & unknown terrain
-
-  <li>Obstacle shape estimation by using approximate comcentrations of simple geometric curves
-
-  <li>Applications of SLAM in minimally invansive surgeries.
-
-  <li>Validating novel algorithms such as iSAM2 and RISE etc., which could attend key issues(online, compuatational efficeicy, reduced data storage etc.)   in SLAM of mobile robots
-
-  <li>Application of these algorithms to path planning for autonomous
-  and semi-autonomous systems.
-
-  <li>path planning and teleopration being the subsequent research topics in my interest for autonomy of robots. 
-
-</ul>
 <p>
-Currently, I am serving as the co-lead of <a href= "http://pagakarthik.github.io/clab.html">Creation Labs</a> at VIT - a multidisciplinary research platform which we co-founded in 2014. And I am a research affiliate at the Laboratory of Computational Intelligence, UBC where we are working on an robot navigation model for the <a href= "www.canwheel.org">Canwheel</a> project <br>
+Currently, I am serving as the co-lead of <a href= "http://pagakarthik.github.io/clab.html">Creation Labs</a> at VIT University- a multidisciplinary research platform which we co-founded in 2014. And I am a research affiliate at the Laboratory of Computational Intelligence, UBC where we are working on an robot navigation model for the <a href= "www.canwheel.org">Canwheel</a> project <br>
 </p>
 <!--<p>
 "I think that it's extraordinarily important that we in computer science keep fun in computing[...]
