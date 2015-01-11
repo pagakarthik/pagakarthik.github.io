@@ -76,11 +76,11 @@ color:: #000000
 }
 address {
   line-height: 120%;
-  font-family: Courier,monospace;
+  font-family: Arial, Courier,monospace;
   margin-top: 0cm;
-  font-size: 6pt;
+  font-size: 4pt;
   margin-bottom: 0.2cm;
-  font-style: normal;
+  font-style: small;
 }
 </style>
 
@@ -300,15 +300,6 @@ Probabilistic Robot Mapping, authors: Michael Kaess, Viorela Ila, Richard Robert
 -->
 <HR size = 2 width = "75%">
 
-<address>
 
-<p>
-Created 26 October 2014.<br>
-Last updated 16 December 2014.<br>
-
-Created and maintained by <a
-HREF="http://pagakarthik.github.io/">Karthik Paga</a>.
-
-</address>
 </body>
 </html>
